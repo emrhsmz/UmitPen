@@ -137,8 +137,7 @@
     <Compile Include="Models\Article.cs" />
     <Compile Include="Models\Config.cs" />
     <Compile Include="Models\Slider.cs" />
-    <Compile Include="Models\UmitPenDB.cs" />
-    <None Include="Models\UmitPenDBEntities.cs-" />
+    <Compile Include="Models\umitPenDBEntities.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
